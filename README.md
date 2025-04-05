@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chizaram! <br/><a href="https://github.com/Chizaram-Uchechi"></a> <a href=www.linkedin.com/in/chizaram-uchechi-egbuchiwe/">Data Scientist and Analyst</a></h1>
+<h1>Hi, I am Chizaram! <br/><a href="https://github.com/Chizaram-Uchechi"></a> <a href=www.linkedin.com/in/chizaram-uchechi-egbuchiwe/">Data Scientist and Analyst</a></h1>
 <h2>👨‍💻 Data Science and Analysis Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
