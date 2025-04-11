@@ -7,8 +7,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
-
+<h2> 🤳 Connect with me: </h2>
 
 [<img align="left" alt="ChizaramUchechiEgbuchiwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ChizaramUche | Freelancer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />][Freelancer]
@@ -17,6 +16,7 @@
 [Freelancer]: https://www.dk.freelancer.com/u/chizaramuche
 
 <
+
 
 <h2>⚡ Fun fact: </h2> 
  <b>In a world full of data, the true power lies in the story it tells and data scientists are the storytellers</b>
